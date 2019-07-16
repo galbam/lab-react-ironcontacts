@@ -14,6 +14,3 @@ class Contact extends Component {
 }
 
 export default Contact;
-
-///deleteContact={this.deleteContact}
-//onClick={this.props.deleteContact.bind(this.props.key)}

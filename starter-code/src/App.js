@@ -4,7 +4,6 @@ import ContactList from "./components/ContactList";
 import contacts from './contacts.json';
 import uGuid from 'uuid/v1';
 
-
 class App extends Component {
 
   state = {
